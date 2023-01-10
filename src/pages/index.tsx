@@ -1,6 +1,6 @@
 import { type NextPage } from "next";
 import Head from "next/head";
-import HomeView from "../components/HomeView";
+import HomeView from "../components/HomeView/HomeView";
 
 const Home: NextPage = () => {
   return (
