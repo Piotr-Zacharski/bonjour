@@ -1,6 +1,7 @@
 import { type NextPage } from "next";
 import { CgHello } from "react-icons/cg";
 import NavBar from "../NavBar/NavBar";
+import React from "react";
 
 const HomeView: NextPage = () => {
   return (
